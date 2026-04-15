@@ -17,7 +17,7 @@
             width: 80px;
             height: 120px;
             &:hover{
-                filter: brightness(0.7);
+                filter: brightness(0.9);
             }
             p{
                 img{
